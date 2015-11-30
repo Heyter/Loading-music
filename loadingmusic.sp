@@ -12,10 +12,10 @@ ConVar UrlAfterLoad;
 
 public Plugin myinfo = {
 	name = "Loading Screen Music",
-	author = "Hannes",
-	description = "Plays music during mapchange over html motd",
+	author = "The casual trade and fun server",
+	description = "Plays music during mapchange",
 	version = PLUGIN_VERSION,
-	url = "http://steamcommunity.com/profiles/76561198040733018"
+	url = "http://tf2-casual-fun.de"
 };
 
 public void OnPluginStart()
